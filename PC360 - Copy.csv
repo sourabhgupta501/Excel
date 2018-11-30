@@ -1,0 +1,78 @@
+VST_END_RSN_CD,VST_STAT_CD,AOM,JT,WTN,P0_PD_WTN,P1_PM_EQ_TYPE,P2_PM_EQ_TYPE,STATUS_COMMENTS,VST_CMPLD_DTTM,Status,UP-Actual,UP-Provisioned,UP-Purchased,Down-Actual,Down-Provisioned,Down-Purchased
+COMPLETED NON COMPLETE,COMPLETED Suspended,"Salaki, James",HSI,4172550107,4172550107,-99,-99,Reset port at WPJJ PC360 ran.,1543305630.000 1543327556.000,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,9440 , 9440 , 8000
+NON COMPLETE,Reassign - Equip/Tool issue,"Salaki, James",HSI,4172560449,4172560449,-99,-99,open 5xx feet from ped 4/32 toward central office,1543312866,Transport Type:  LCTL Network ADSL,288 , 288 , 256,224 , 1760 , 1500
+COMPLETED,~,"Salaki, James",HSI,4172560685,4172560685,-99,-99,"Good to NIU, customer will run new i-wire.  PC360 Ran",1543318278,Transport Type:  LCTL Network VDSL2,5501 , 5504 , 5000,44000 , 44000 , 40000
+COMPLETED,COMPLETED,"Salaki, James",HSI,4172561669,-99,-99,-99,"Ran jumpers at remote, installed modem (got stuck in walled garden).  Uploaded pc360 at serving jack",1543313433,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,11775 , 11776 , 10000
+COMPLETED,~,"Salaki, James",HSI,4172562961,4172562961,-99,-99,"Used left in facilities, uploaded pc360",1543332593,Transport Type:  LCTL Network ADSL, , 288 , 256, , 576 , 513
+COMPLETED,~,"Salaki, James",VOICE,4172564597,4172564597,-99,-99,Bad iw,1543318085,Transport Type:  LCTL Network ADSL2+,605 , 608 , 512,7099 , 7104 , 6000
+COMPLETED,~,"Salaki, James",VOICE,4172568501,-99,-99,-99,No answer on cbr number . Ring side of pr open in ped 2F3/04,1543313294,Transport Type:  LCTL Network ADSL,288 , 288 , 256,416 , 576 , 513
+COMPLETED,~,"Salaki, James",HSI,4172569955,4172569955,-99,-99,Customer not eligible for upgrade yet.  Notified customer and contacted NOHD to restore to original speed,1543322452,Transport Type:  LCTL Network ADSL, , 576 , 512, , 7072 , 6000
+NON COMPLETE,Partial Complete,"Salaki, James",VOICE,4172573359,-99,-99,-99,Reschedule for original due date,1543325652,Transport Type:  LCTL Network ADSL,287 , 288 , 256,1757 , 1760 , 1500
+NOT READY,Opened Held Order,"Salaki, James",HSI,4172577998,-99,-99,-99,Node 108 isn't turned up yet.  Cables are in the cabinet but not opened up or spliced.  Needs to be placed on hold until node is turned up.,1543329118,Transport Type:  LCTL Network ADSL, , 576 , 512, , 4704 , 4000
+COMPLETED,~,"Salaki, James",HSI,4172611007,-99,-99,-99,Ran jumper.  Unloaded pair 3 times.  Tested to nid.  Had to change speed to 4 meg due to distance.  Waited for over 1/2 hr with chat to get speed changed.,1543325035,Transport Type:  LCTL Network VDSL2,0 , 1024 , 1000,0 , 11776 , 10000
+COMPLETED,~,"Salaki, James",HSI,4172642281,4172642281,-99,-99,cust going to run new inside wire 360 test done at nid,1543309263,Transport Type:  LCTL Network VDSL2,1119 , 1120 , 1000,11007 , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,4174690082,-99,-99,-99,"buzzed customer,wired in office,PC360,customer still hasn't got her modem",1543334518,Transport Type:  LCTL Network ADSL,288 , 288 , 256,1760 , 1760 , 1500
+COMPLETED,~,"Salaki, James",HSI,4174690386,4174690386,-99,-99,Good to nid..  poll dslam looks good. Might be a bandwidth issue,1543321401,Transport Type:  LCTL Network VDSL2, , 1120 , 1000, , 11008 , 10000
+NOT READY,No Access/Not Home,"Salaki, James",HSI,4174690476,-99,-99,-99,good to nid pc360 no one home cbr no voicemail,1543333528,Transport Type:  LCTL Network VDSL2,1119 , 1120 , 1000,11000 , 11008 , 10000
+COMPLETED NON COMPLETE,COMPLETED Suspended,"Salaki, James",HSI,4174690479,-99,-99,-99,wired pc 360,1543319672.000 1543326963.000,Transport Type:  LCTL Network ADSL2+,734 , 736 , 768,9440 , 9440 , 10000
+COMPLETED,COMPLETED,"Salaki, James",VOICE,4174691150,-99,-99,-99,"NTF,did not PC360 as business was on internet",1543320538,Transport Type:  LCTL Network VDSL2,1230 , 2208 , 2000,27518 , 27520 , 25000
+COMPLETED,~,"Salaki, James",HSI,4175320178,-99,-99,-99,-99,1543336880,Transport Type:  LCTL Network AVDSL2,1301 , 128000 , 768,25869 , 128000 , 8000
+COMPLETED,COMPLETED,"Salaki, James",HSI,4175320558,-99,-99,-99,placed in node6a  1-1-23 and moden,1543331978,Transport Type:  LCTL Network ADSL2+,99 , 448 , 512,1911 , 5888 , 6000
+COMPLETED,~,"Salaki, James",HSI,4175321244,4175321244,-99,-99,Port issues,1543331620,Transport Type:  LCTL Network VDSL2,1404 , 5504 , 5000,2011 , 44000 , 40000
+COMPLETED,COMPLETED,"Salaki, James",VOICE,4175321428,-99,-99,-99,-99,1543319701,Transport Type:  LCTL Network AVDSL2,895 , 896 , 768,11774 , 11776 , 10000
+COMPLETED,~,"Salaki, James",HSI,4175321934,-99,-99,-99,-99,1543337697,Transport Type:  LCTL Network ADSL2+,576 , 576 , 512,6016 , 7072 , 6000
+COMPLETED,~,"Salaki, James",HSI,4175321964,-99,-99,-99,Customer said down for a month no need for me to close out test.  Did speed test with my lap top.  Cross connect and green screen issue,1543328406,Transport Type:  LCTL Network VDSL2,0 , 1120 , 1000,0 , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,4175322430,-99,-99,-99,-99,1543337504,Transport Type:  LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",HSI,4175322487,-99,-99,-99,Meter is having issues,1543316480,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,11769 , 11776 , 10000
+COMPLETED,~,"Salaki, James",VOICE,4175322727,-99,-99,-99,-99,1543309150,Transport Type:  LCTL Network AVDSL2,1023 , 1024 , 896,11774 , 11776 , 10000
+COMPLETED,COMPLETED,"Salaki, James",HSI,4175323514,-99,-99,-99,Re terminated a number of i/w also installed a dsl splitter,1543335810,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,11775 , 11776 , 10000
+NON COMPLETE,Partial Complete,"Salaki, James",HSI,4175323761,-99,-99,-99,Test equip failure reschedule tmorrow,1543336132,Transport Type:  LCTL Network ADSL2+,895 , 896 , 768,11768 , 11776 , 10000
+NON COMPLETE,Partial Complete,"Salaki, James",HSI,4175324530,-99,-99,-99,Dsl working ok now. Need tkts redispatched tomorrow wednesday,1543330959,Transport Type:  LCTL Network VDSL2,0 , 1120 , 1000,0 , 11008 , 10000
+COMPLETED,COMPLETED,"Salaki, James",HSI,4175325354,-99,-99,-99,-99,1543314550,Transport Type:  LCTL Network VDSL2,1999 , 2000 , 2000,19970 , 20000 , 20000
+COMPLETED,COMPLETED,"Salaki, James",VOICE,4175329361,-99,-99,-99,no trouble found Rick work a ticket for same customer up grade Saturday,1543312319,Transport Type:  LCTL Network AVDSL2,895 , 896 , 768,11772 , 11776 , 10000
+COMPLETED,COMPLETED ~,"Salaki, James",HSI,4175880179,-99,-99,-99,-99,1543331057,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,8192 , 8192 , 8000
+COMPLETED,~,"Salaki, James",HSI,4175881035,4175881035,-99,-99,-99,1543327145,Transport Type:  LCTL Network ADSL,576 , 576 , 512,4224 , 4704 , 4000
+COMPLETED,~,"Salaki, James",VOICE,4175888920,-99,-99,-99,cord,1543314958,Transport Type:  LCTL Network VDSL2, , 2208 , 2000, , 27520 , 25000
+COMPLETED,~,"Salaki, James",HSI,4177787127,4177787127,-99,-99,cable repaired and 360 test done,1543323355,Transport Type:  LCTL Network ADSL2+,734 , 736 , 768,9440 , 9440 , 10000
+COMPLETED,~,"Salaki, James",HSI,4177789090,4177789090,-99,-99,repaired cable and did 360 test,1543335183,Transport Type:  LCTL Network VDSL2,1119 , 1120 , 1000,11007 , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,4179340185,4179340185,-99,-99,wired and pc360,1543316632,Transport Type:  LCTL Network VDSL2, , 1120 , 1000, , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,4179340922,4179340922,-99,-99,Repaired cable,1543312343,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,11775 , 11776 , 10000
+COMPLETED,~,"Salaki, James",VOICE,4179340976,-99,-99,-99,put in drop request,1543329272,Transport Type:  LCTL Network VDSL2,1120 , 1120 , 1000,11007 , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,4179620272,4179620272,-99,-99,"buzzed customer,wired in office,PC360",1543315506,Transport Type:  LCTL Network ADSL,574 , 576 , 512,3519 , 3520 , 3000
+CANCELLED COMPLETED,COMPLETED Company Miss,"Salaki, James",HSI,4179620360,4179620360,null1,null1,Pc360 complete,1543303942.000 1543312116.000,Transport Type:  LCTL Network VDSL2,0 , 5000 , 5000,0 , 40000 , 40000
+COMPLETED,~,"Salaki, James",VOICE,4179623032,4179623032,-99,-99,Repaired cable,1543330164,Transport Type:  LCTL Network VDSL2, , 1120 , 1000, , 11008 , 10000
+COMPLETED,~,"Salaki, James",HSI,5733080976,-99,-99,-99,test pcc360 uploaded from gateway,1543331062,Transport Type:  LCTL Network VDSL2,5501 , 5504 , 5000,44000 , 44000 , 40000
+NOT READY,No Access/Not Home,"Salaki, James",HSI,5733081912,5733081912,-99,-99,.,1543330989,Transport Type:  LCTL Network AVDSL2,733 , 736 , 768,9437 , 9440 , 10000
+COMPLETED,~,"Salaki, James",HSI,5733290934,5733290934,-99,-99,-99,1543310984,Transport Type:  LCTL Network VDSL2,2207 , 2208 , 2000,27518 , 27520 , 25000
+COMPLETED,~,"Salaki, James",HSI,5733362635,5733362635,-99,-99,-99,1543317721,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,11774 , 11776 , 10000
+COMPLETED NON COMPLETE,COMPLETED Suspended,"Salaki, James",VOICE,5733363328,-99,-99,-99,proction and iw outside broken,1543313820.000 1543337918.000,Transport Type:  LCTL Network VDSL2,2208 , 2208 , 2000,27518 , 27520 , 25000
+COMPLETED,~,"Salaki, James",HSI,5733364657,-99,-99,-99,-99,1543322378,Transport Type:  LCTL Network VDSL2,1999 , 2000 , 2000,24972 , 25000 , 25000
+COMPLETED,~,"Salaki, James",HSI,5733410162,-99,-99,-99,-99,1543337605,Transport Type:  LCTL Network ADSL,892 , 896 , 768,5886 , 5888 , 5000
+CANCELLED COMPLETED,COMPLETED Company Miss,"Salaki, James",HSI,5733410293,-99,-99,-99,-99,1543305899.000 1543308322.000,Transport Type:  LCTL Network ADSL2+,892 , 896 , 768,9434 , 9440 , 10000
+COMPLETED,~,"Salaki, James",VOICE,5733412133,-99,-99,-99,moved from a 3 pr path to s2424 ch 3,1543319214,Transport Type:  LCTL Network ADSL,446 , 448 , 512,1095 , 2944 , 3000
+COMPLETED,~,"Salaki, James",VOICE,5733412934,5733412934,-99,-99,"pair read clean, no noise on line 11/27, speed was only 3M out of 25M, reconnected after running tests and speed was 100%, possible lose connection",1543314588,Transport Type: LCTL Network VDSL2,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5733645831,-99,-99,-99,all test results good and up loaded on PC360 for review,1543324527,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5733647665,5733647665,-99,-99,"exposed drop in backyard cut, temp repaired by owner",1543310908,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5733649222,5733649222,-99,-99,bad cable pair,1543337423,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,COMPLETED,"Salaki, James",HSI,5734359373,5734359373,-99,-99,called assignment to change dsl assignment out of node 35 / rewired NID / set up router/ran PC360,1543321925,Transport Type: LCTL Network VDSL2,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5736741052,5736741052,-99,-99,Good to NID.  Customer refused access to inside.,1543313852,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,COMPLETED,"Salaki, James",HSI,5736742674,5736742674,-99,-99,Ran two new i/w . Customer was told they were \nFree,1543336931,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737292020,-99,-99,-99,-99,1543318209,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,COMPLETED,"Salaki, James",VOICE,5737292021,-99,-99,-99,-99,1543334853,Transport Type: LCTL Network ,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737292234,-99,-99,-99,sys32 down,1543333909,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737292859,-99,-99,-99,"advised of bad cpe, ntf",1543319039,Transport Type: LCTL Network ,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737294039,-99,-99,-99,sys32 failure,1543335063,Transport Type: LCTL Network ADSL,,,,,,
+NON COMPLETE,Company Miss,"Salaki, James",VOICE,5737294640,5737294640,-99,-99,"Customer said it happens worse when it rains, its supposed to rain saturday. Revise due date for Saturday December 1st 2018. GIVE BACK TO AB40589 AS FIRST JOB ON FIRST DISPATCH. It was clear and working yesterday and today.",1543304874,Transport Type: LCTL Network ADSL2+,,,,,,
+NON COMPLETE,Reassign - Skill,"Salaki, James",VOICE,5737295652,5737295652,-99,-99,wrong area needs to be dispatched to a Salem tech,1543322076,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737297180,-99,-99,-99,-99,1543330173,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737297264,-99,-99,-99,-99,1543338291,Transport Type: LCTL Network ,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5737622177,5737622177,-99,-99,-99,1543329211,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,COMPLETED,"Salaki, James",HSI,5737622236,5737622236,-99,-99,-99,1543310047,Transport Type: LCTL Network AVDSL2,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5737623112,5737623112,-99,-99,-99,1543321956,Transport Type: LCTL Network AVDSL2,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737623328,-99,-99,-99,-99,1543315321,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5737653191,5737653191,-99,-99,Spent over an hour trying to find good Channel tests okay at Cross box but would not serve,1543320438,Transport Type: LCTL Network ADSL2+,,,,,,
+COMPLETED,~,"Salaki, James",HSI,5737653951,5737653951,-99,-99,Pair was stolen then had issues in cross box.    Directed all problems and retested.,1543315956,Transport Type: LCTL Network ADSL,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737654002,-99,-99,-99,Made 26 min test call no issue,1543336677,Transport Type: LCTL Network ,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737654608,-99,-99,-99,Jack rewired and moved to make work,1543330110,Transport Type: LCTL Network AVDSL2,,,,,,
+COMPLETED,~,"Salaki, James",VOICE,5737654984,-99,-99,-99,Called out cyst could not call long distance. Over holiday weekend issue has been resolved,1543330777,Transport Type: LCTL Network ADSL,,,,,,
+CANCELLED COMPLETED,COMPLETED Referral,"Salaki, James",HSI,5737744118,-99,-99,-99,ticket cancel,1543302439.000 1543307257.000,Transport Type: LCTL Network ADSL,,,,,,
